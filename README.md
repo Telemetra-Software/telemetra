@@ -13,8 +13,8 @@ The Telemetra ecosystem is composed of:
   machine (node), and each actor may provide multiple services.
 
 - **Telemetra SDK**: A software development kit used to write
-  Telemetra Actors and instrument applications with Telemetra
-  capabilities.
+  Telemetra Actors, Clients, and instrument applications with
+  Telemetra capabilities.
 
 - **Telemetra Leader**: Manages the lifecycle of services and collects
   data from the Actors.  For each service, the Leader provides:
