@@ -23,6 +23,7 @@ The Telemetra ecosystem is composed of:
   - **Notifier**: Sends event messages to other processes (typically a
   client), for example when a new actor registers/unregisters or when
   new data is received.
+  - **Telemetra DB**: Key-Value store database
   
 - **Telemetra Client**: A secure client for managing the Telemetra
   Leader. It includes:
