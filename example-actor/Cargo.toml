@@ -1,0 +1,6 @@
+[package]
+name = "example-actor"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

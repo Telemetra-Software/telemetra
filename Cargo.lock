@@ -3,5 +3,17 @@
 version = 4
 
 [[package]]
-name = "telemetra"
+name = "example-actor"
+version = "0.1.0"
+
+[[package]]
+name = "telemetra-client"
+version = "0.1.0"
+
+[[package]]
+name = "telemetra-leader"
+version = "0.1.0"
+
+[[package]]
+name = "telemetra-sdk"
 version = "0.1.0"
